@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+}
+body {
+    text-align: center !important;
+    background-color:cornsilk !important;
+    height: 100%;
+}
+.my-header{
+    text-align: center;
+    color: #17a2b8;
+    font-family: cursive;
+    margin-top: 13rem;
+ 
+}
+
+.card {
+   display: block; 
+    margin-top: 3rem;
+}
+
+.current-quote{
+     margin-top: 2rem;
+     font-weight: bold;
+}
+
+.source {
+    font-style: italic;
+}
+
+.tweet-button {
+    text-align: right;
+    margin-right: 2rem;
+    
+}
+
+.new-quote-button {
+    margin-top: 2rem;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+	width: 100%;
+	background-color: #17a2b8;  
+    color:  #212529;
+	height: 30px;
+	
+}
