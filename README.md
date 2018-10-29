@@ -1,6 +1,6 @@
 # Quote Machine
 
-React app to generate random inspirational quotes. This project is done as part of 
+React app to generate random inspirational quotes.
 
 ### Getting Started
 
